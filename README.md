@@ -1,0 +1,1 @@
+A joint session of openEO and PerceptiveSentinel projects at the H2020 EO Big Data Hackaton.
